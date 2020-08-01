@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: brown;
+}
+
+nav h1 {
+    text-align: center;
+    color: cornsilk;
+    line-height: 100px;
+}
+
+#countries select{
+    /* border: none; */
+    background-color: gray;
+    color: honeydew;
+    border: 5px solid black;
+}
+
+#countries .countrySec{
+    text-align: center;
+}
+
+#results h1{
+    text-align: center;
+}
+
+
+
